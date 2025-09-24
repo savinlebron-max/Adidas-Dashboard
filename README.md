@@ -1,44 +1,50 @@
-## 📊 Adidas Sales Dashboard – Power BI
+📊 Adidas Sales Dashboard – Excel
 
-This Power BI report provides an interactive view of Adidas sales data, enabling business stakeholders to analyze performance across regions, products, and sales channels.
+This Excel project provides an interactive dashboard for Adidas sales data, enabling users to analyze performance across regions, retailers, and sales channels.
 
-### 🔍 Key Visual Insights
+🔍 Key Visual Insights
 
-* **Top Retailers & Regions**
-  Identify which retailers and regions contribute most to revenue and profit.
+Top Retailers & Regions
+Discover which retailers and regions drive the highest revenue and profit.
 
-* **Product Performance**
-  Track sales trends across product categories (e.g., Men’s Apparel, Women’s Apparel, Footwear).
+Product Category Performance
+Compare sales across Men’s Apparel, Women’s Apparel, and Footwear.
 
-* **Sales by Channel**
-  Compare revenue and units sold between **In-Store** and **Online** channels.
+Sales by Channel
+Understand the difference between Online vs In-Store sales.
 
-* **Profitability Analysis**
-  Monitor operating profit, margins, and contribution of products.
+Profitability Analysis
+Track operating profit and margins across different product categories.
 
-* **KPI Cards**
+KPI Highlights
 
-  * ✅ Total Sales
-  * ✅ Total Units Sold
-  * ✅ Total Operating Profit
-  * ✅ Profit Margin %
-  * ✅ Sales by Method (Online vs In-Store)
+✅ Total Sales
 
-* **Trend Charts (Daily, Monthly, Yearly)**
-  Explore sales and profit trends over time.
+✅ Total Units Sold
 
-### 🎯 Objective
+✅ Operating Profit
 
-To transform Adidas sales data into a business-ready dashboard that helps decision-makers optimize product strategy, retailer partnerships, and channel performance.
+✅ Profit Margin %
 
-### 🛠 Tools Used
+✅ Sales by Method (Online vs In-Store)
 
-* **Power BI Desktop**
-* **DAX** (for measures & KPIs)
-* **Power Query** (for ETL and data shaping)
+Trend Analysis
+Visualize sales and profit trends over time using interactive charts.
 
-### 📁 File
+🎯 Objective
 
-* `adidas_dashboard.pbix` – Power BI dashboard file
+To transform Adidas sales data into an Excel-based interactive dashboard that helps managers and analysts make data-driven decisions.
 
----
+🛠 Tools & Features Used
+
+Excel Pivot Tables & Pivot Charts
+
+Slicers & Filters for interactivity
+
+Conditional Formatting for insights
+
+Formulas (SUM, AVERAGE, Profit Margin Calculations, etc.)
+
+📁 File
+
+Adidas Sales Dashboard.xlsx – Excel project file containing the dashboard, pivot tables, and raw dataset.
